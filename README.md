@@ -13,3 +13,5 @@ All known slides for GIDS17
 * _VertX adn Reactive microservices_ by @burrsutter [Slides](https://docs.google.com/presentation/d/18wPraTym-rJyyXWcSuq493-bzvxD3Qij9Hhl8r543eU/mobilepresent?slide=id.g123c1734fc_2_0)
 * _Reactive Programing, Systems and Microservices_ by @burrsutter [Demo Code](https://github.com/burrsutter/reactive_tutorial_jfokus17)
 * _Building Microservices with gRPC and NATS_ by @shijucv [Slides](https://t.co/MXNkgANUmC)
+* _Node Shell tools_ by @_sequoia [Slides](http://bit.ly/shell-tools-slides)
+* _Node debugging_ by @_sequoia [Slides](http://sequoia.makes.software/debugging-nodejs-talk/)
